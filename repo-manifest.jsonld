@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/sphinxcontrib-asyncio/commit/0cef4f21ae6aab6b8285ad171f8cdf47429d37a0",
       "git:hexsha": "0cef4f21ae6aab6b8285ad171f8cdf47429d37a0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/sphinxcontrib-asyncio/commit/2556440dab487822abbc1d3ae2c259ee315908c2",
