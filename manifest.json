@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "aio-libs",
+  "repo": "sphinxcontrib-asyncio",
+  "versions": [
+    {
+      "commit": "0cef4f21ae6aab6b8285ad171f8cdf47429d37a0",
+      "parsed_at": "2026-10-11T08:45:18.212779+00:00",
+      "filetree": "filetree/0cef4f21ae6aab6b8285ad171f8cdf47429d37a0.nq.gz",
+      "blobs": [
+        "blob/1dbc687de014ee027b4e6c0d7f2a37ee7636137e.nq.gz",
+        "blob/cfbec44c0114261a6b99506e0ba789f898d4c9fc.nq.gz",
+        "blob/fa0e69057437a6b4ed14896dd8c18043162c94d6.nq.gz",
+        "blob/6ff1938e7e38c0ce8bfc59a080fa77240704ef31.nq.gz",
+        "blob/0b2f7b0655f41276d418ca8302dbaec8b7e7e829.nq.gz",
+        "blob/6ce0aec2dc936d5fc1075a1373ff52b1a6d7f68f.nq.gz",
+        "blob/de40ea7ca058e07a399acf61529d418c07eeee61.nq.gz",
+        "blob/e4884423f1f3c28f1f01d03c9e676127547b57c0.nq.gz",
+        "blob/dcde6e8d64672dc03e279135fcf90c1f8d8a835c.nq.gz",
+        "blob/f9b706d6c11d9195ae3c997e613389b219a20e5f.nq.gz",
+        "blob/2a9acf13daa95e85642ea255d3e3bd1ef8252804.nq.gz",
+        "blob/f6b693cc864a7eebb8c604c54c5a525ab8518f63.nq.gz",
+        "blob/15d3ff2f3ed2456710a70cc79426410d5be012da.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/b5077be47c6a03e1044098794301b8536d863c9b.nq.gz",
+        "blob/c7f7d635383c997a29f04438cd73fbbffd7c9133.nq.gz",
+        "blob/7412fd91484e50c2e49c97b1550902178bed4a45.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
