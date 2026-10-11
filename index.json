@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "sphinxcontrib-asyncio",
+  "versions": [
+    {
+      "commit": "0cef4f21ae6aab6b8285ad171f8cdf47429d37a0",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:47:40.006279+00:00"
+    }
+  ]
+}
