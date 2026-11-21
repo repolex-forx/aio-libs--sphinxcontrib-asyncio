@@ -3,6 +3,11 @@
   "repo": "sphinxcontrib-asyncio",
   "versions": [
     {
+      "commit": "f37ebf67883f1c07e07f5f1767acd3d47a5d5e68",
+      "tag": "v0.3.0",
+      "parsed_at": "2026-11-21T23:18:06.155205+00:00"
+    },
+    {
       "commit": "0cef4f21ae6aab6b8285ad171f8cdf47429d37a0",
       "tag": "",
       "parsed_at": "2026-10-11T08:47:40.006279+00:00"
